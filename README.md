@@ -1,1 +1,3 @@
-# envx1002_w10_lecture
+# About
+Lecture slides for ENVX1002 Week 10: Simple Linear Regression
+
